@@ -3,10 +3,12 @@
   "course": "Testing",
   "teacherName": "Cristian Ronald",
   "students": [
-    { "name": "Juan", "lastname": "Golang", "age": 23 },
-    { "name": "Rita", "lastname": "Csharp", "age": 30 },
-    { "name": "Kowalski", "lastname": "Penguin", "age": 20 },
-    { "name": "Giannina", "lastname": "Lambda", "age": 26 },
-    { "name": "Mar", "lastname": "Cobol", "age": 29 }
+    { "name": "Kevin", "lastname": "Luisé", "age": 21 },
+    { "name": "Facundo", "lastname": "Borsani", "age": 23 },
+    { "name": "andres", "lastname": "cavallo", "age": 24 },
+    { "name": "Lucia", "lastname": "Norbis", "age": 26 },
+    { "name": "Nahuel", "lastname": "Graña", "age":  21 },
+    { "name": "Apud", "lastname": "Ian", "age":  19 },
+    { "name": "Gonzalo", "lastname": "Diaz", "age":  27 }
   ]
 }
